@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/24sgt609oh1j6.css","style"]
+:HL["/_next/static/media/ab57efd000576a30-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/img/scene.webp","image",{"imageSrcSet":"/img/scene-800.webp 800w, /img/scene.webp 1403w","imageSizes":"(max-width: 980px) 100vw, 45vw"}]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":"l-citrulline-enhanced","h":96,"c":"$Q5"}]]
+3:[["children",{"s":"products","h":96,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":65648,"c":"$Q3"}]]
+1:[["children",{"s":"(site)","h":131184,"c":"$Q2"}]]
+0:{"b":"QMy_5120md0_rjDfeEqVS","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

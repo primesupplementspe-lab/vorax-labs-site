@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/24sgt609oh1j6.css","style"]
+:HL["/_next/static/media/ab57efd000576a30-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/img/logo.webp","image"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"(root)","h":112,"c":"$Q2"}]]
+0:{"b":"QMy_5120md0_rjDfeEqVS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
